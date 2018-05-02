@@ -23,8 +23,6 @@ with open('requirements_extra.txt', 'r') as f:
 with open('VERSION') as f:
     VERSION = f.read().strip()
 
-files = ["resources/*"]
-
 setup(name='pommerman',
       version=VERSION,
       description='PlayGround: AI Research into Multi-Agent Learning',
@@ -36,7 +34,6 @@ setup(name='pommerman',
           'Programming Language :: Python :: 3.6',
       ],
       packages=find_packages(),
-      package_data = {'pommerman' : files },
       install_requires=install_requires,
       extras_require={
         'extras': extras_require # @TODO this might need refinement
