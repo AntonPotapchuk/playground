@@ -21,9 +21,12 @@ eggs/
 lib/
 lib64/
 parts/
+rl_agent/logs
+rl_agent/model
 sdist/
 var/
 wheels/
+
 *.egg-info/
 .installed.cfg
 *.egg

@@ -29,7 +29,10 @@ class Agent:
         self.sess = tf.InteractiveSession()
         self.rewards = []
         if os.path.isdir(log_path):
-            shutil.rmtree(log_path)
+            try:
+                shutil.rmtree(log_path, ignore_errors=True)
+            except:
+                print("Cant delete log folder")
 
         # TODO hardcoded
         self.conv_ph = tf.placeholder(shape=[None, BOARD_SIZE, BOARD_SIZE, 3], name='conv_ph', dtype=tf.float32)
@@ -102,9 +105,13 @@ class Agent:
             try:
                 if self.save_best_model:
                     if val_loss < prev_loss:
+                        print("Saving model")
                         self.saver.save(self.sess, self.save_path)
+                        print("Model was saved successfully")
                 else:
+                    print("Saving model")
                     self.saver.save(self.sess, self.save_path)
+                    print("Model was saved successfully")
             except:
                 print("Failed save model")
             prev_loss = val_loss
