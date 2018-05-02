@@ -8,6 +8,9 @@ from . import utility
 
 
 class ForwardModel(object):
+    def __init__(self, custom_reward=None):
+        self.custom_reward = custom_reward
+
     """Class for helping with the [forward] modeling of the game state."""
 
     def run(self, num_times, board, agents, bombs, items, flames, is_partially_observable, agent_view_size, action_space, training_agent=None, is_communicative=False):
@@ -350,8 +353,10 @@ class ForwardModel(object):
                 'result': constants.Result.Incomplete,
             }
 
-    @staticmethod
-    def get_rewards(agents, game_type, step_count, max_steps):
+    def get_rewards(self, agents, game_type, step_count, max_steps):
+        if self.custom_reward is not None:
+            return self.custom_reward(agents, game_type, step_count, max_steps)
+
         def any_lst_equal(lst, values):
             return any([lst == v for v in values])
 

@@ -34,6 +34,7 @@ class Pomme(gym.Env):
                  num_items=None,
                  max_steps=1000,
                  is_partially_observable=False,
+                 custom_reward = None,
                  **kwargs
     ):
         self._render_fps = render_fps
@@ -49,7 +50,7 @@ class Pomme(gym.Env):
         self._is_partially_observable = is_partially_observable
 
         self.training_agent = None
-        self.model = forward_model.ForwardModel()
+        self.model = forward_model.ForwardModel(custom_reward=custom_reward)
 
         # Observation and Action Spaces. These are both geared towards a single
         # agent even though the environment expects actions and returns
