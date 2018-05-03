@@ -1,4 +1,6 @@
 import numpy as np
+import os
+import shutil
 
 from pommerman.envs.v0 import Pomme
 from pommerman.agents import SimpleAgent, BaseAgent
@@ -8,8 +10,18 @@ from tensorforce.agents import PPOAgent
 from tensorforce.execution import Runner
 from tensorforce.contrib.openai_gym import OpenAIGym
 
-episodes = 100
+num_episodes = 100
+batching_capacity = 100000
+save_seconds = 300
+main_dir = './ppo/'
+log_path = main_dir + 'logs/'
+model_path = main_dir + 'model'
 
+if not os.path.isdir(main_dir):
+    os.mkdir(main_dir)
+if os.path.isdir(log_path):
+    shutil.rmtree(log_path, ignore_errors=True)
+os.mkdir(log_path)
 
 def reward_function(agents, game_type, step_count, max_steps):
     def any_lst_equal(lst, values):
@@ -53,15 +65,21 @@ states = {
     "board": dict(shape=(BOARD_SIZE, BOARD_SIZE, 3, ), type='float'),
     "state": dict(shape=(3,), type='float')
 }
+saver = {
+    "directory": model_path,
+    "seconds": save_seconds,
+    "load": os.path.isdir(model_path)
+}
 agent = PPOAgent(
     states=states,
     actions=dict(type='int', num_actions=env.action_space.n),
     network=network,
-    batching_capacity=10000,
+    batching_capacity=batching_capacity,
     step_optimizer=dict(
         type='adam',
         learning_rate=1e-4
-    )
+    ),
+    saver=saver
 )
 
 class TensorforceAgent(BaseAgent):
@@ -98,8 +116,6 @@ class WrappedEnv(OpenAIGym):
         # If nobody die, use some "smart" reward
         if agent_reward == 0:
             agent_reward = self.gym.train_reward
-        if agent_reward > 0:
-            print(agent_reward)
         return agent_state, terminal, agent_reward
 
     def reset(self):
@@ -152,7 +168,7 @@ def episode_finished(r):
 # Instantiate and run the environment for 5 episodes.
 wrapped_env = WrappedEnv(env, False)
 runner = Runner(agent=agent, environment=wrapped_env)
-runner.run(episodes=episodes, episode_finished=episode_finished)
+runner.run(num_episodes=num_episodes, episode_finished=episode_finished, max_episode_timesteps=env._max_steps)
 print("Stats: ", runner.episode_rewards, runner.episode_timesteps, runner.episode_times)
 
 try:
