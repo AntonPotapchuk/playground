@@ -95,6 +95,11 @@ class WrappedEnv(OpenAIGym):
         state, reward, terminal, _ = self.gym.step(all_actions)
         agent_state = WrappedEnv.featurize(state[self.gym.training_agent])
         agent_reward = reward[self.gym.training_agent]
+        # If nobody die, use some "smart" reward
+        if agent_reward == 0:
+            agent_reward = self.gym.train_reward
+        if agent_reward > 0:
+            print(agent_reward)
         return agent_state, terminal, agent_reward
 
     def reset(self):

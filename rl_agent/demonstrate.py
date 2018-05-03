@@ -73,6 +73,20 @@ class TrainedAgent(BaseAgent):
         board = np.expand_dims(obs['board'], axis=0)
         state = np.expand_dims(obs['state'], axis=0)
         res = self.sess.run(self.sampled_action, feed_dict={self.conv_ph: board, self.state_ph: state})
+        if res==0:
+            print("stop")
+        elif res == 1:
+            print("up")
+        elif res == 2:
+            print("down")
+        elif res == 3:
+            print("left")
+        elif res == 4:
+            print("right")
+        elif res == 5:
+            print("bomb")
+        else:
+            print("BAD")
         return res
 
     def close(self):

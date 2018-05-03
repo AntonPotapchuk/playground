@@ -105,9 +105,11 @@ class ForwardModel(object):
 
     @staticmethod
     def step(actions, curr_board, curr_agents, curr_bombs, curr_items,
-             curr_flames):
+             curr_flames,training_agent=None):
         board_size = len(curr_board)
-
+        train_reward = None
+        if training_agent is not None:
+            train_reward = 0
         # Tick the flames. Replace any dead ones with passages. If there is an item there, then reveal that item.
         flames = []
         for flame in curr_flames:
@@ -148,6 +150,9 @@ class ForwardModel(object):
                 position = agent.position
 
                 if action == constants.Action.Stop.value:
+                    # Prevent from too much stops
+                    if agent.agent_id == training_agent:
+                        train_reward -= 0.001
                     agent.stop()
                 elif action == constants.Action.Bomb.value:
                     bomb = agent.maybe_lay_bomb()
@@ -166,6 +171,9 @@ class ForwardModel(object):
                 else:
                     # The agent made an invalid direction.
                     agent.stop()
+                    if agent.agent_id == training_agent:
+                        # Prevent from stupid actions
+                        train_reward -= 0.005
             else:
                 next_positions[agent.agent_id] = None
 
@@ -189,6 +197,9 @@ class ForwardModel(object):
                         bombs[0].moving_direction = constants.Action(direction)
 
             if utility.position_is_powerup(curr_board, agent.position):
+                if agent.agent_id == training_agent:
+                    # Reward for picking cool stuff
+                    train_reward += 0.01
                 agent.pick_up(constants.Item(curr_board[agent.position]))
                 curr_board[agent.position] = constants.Item.Passage.value
 
@@ -230,6 +241,9 @@ class ForwardModel(object):
         # Kill these agents.
         for agent in curr_agents:
             if agent.in_range(exploded_map):
+                # Reward for killing someone(or random killing:))
+                if agent.agent_id != training_agent:
+                    train_reward += 0.4
                 agent.die()
         exploded_map = np.array(exploded_map)
 
@@ -240,6 +254,9 @@ class ForwardModel(object):
         for agent in curr_agents:
             position = np.where(curr_board == utility.agent_value(agent.agent_id))
             curr_board[position] = constants.Item.Passage.value
+            if agent.agent_id == training_agent and curr_board[position] == constants.Item.Flames.value:
+                # Reward for staying in the bomb radius
+                train_reward -= 0.03
             if agent.is_alive:
                 curr_board[agent.position] = utility.agent_value(agent.agent_id)
 
@@ -249,7 +266,7 @@ class ForwardModel(object):
         for flame in curr_flames:
             curr_board[flame.position] = constants.Item.Flames.value
 
-        return curr_board, curr_agents, curr_bombs, curr_items, curr_flames
+        return curr_board, curr_agents, curr_bombs, curr_items, curr_flames, train_reward
 
     def get_observations(self, curr_board, agents, bombs, is_partially_observable, agent_view_size):
         """Gets the observations as an np.array of the visible squares.

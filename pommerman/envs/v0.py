@@ -161,8 +161,8 @@ class Pomme(gym.Env):
         return [seed]
 
     def step(self, actions):
-        self._board, self._agents, self._bombs, self._items, self._flames = self.model.step(
-            actions, self._board, self._agents, self._bombs, self._items, self._flames)
+        self._board, self._agents, self._bombs, self._items, self._flames, self.train_reward = self.model.step(
+            actions, self._board, self._agents, self._bombs, self._items, self._flames, training_agent=self.training_agent)
 
         done = self._get_done()
         obs = self.get_observations()
