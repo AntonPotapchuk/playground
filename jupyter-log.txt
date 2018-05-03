@@ -1,0 +1,26 @@
+
+
+   Copy/Paste this in your local terminal to ssh tunnel with remote 
+   ------------------------------------------------------------------
+   ssh -N -L 8786:172.17.63.2:8786 anton95@stage2.hpc.ut.ee
+   ------------------------------------------------------------------
+
+
+   Then open a browser on your local machine to the following address
+   ------------------------------------------------------------------
+   localhost:8786                                                
+   ------------------------------------------------------------------
+
+
+[I 02:16:50.238 NotebookApp] Writing notebook server cookie secret to /gpfs/hpchome/anton95/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 02:16:56.900 NotebookApp] Serving notebooks from local directory: /gpfs/hpchome/anton95/playground
+[I 02:16:56.901 NotebookApp] 0 active kernels
+[I 02:16:56.901 NotebookApp] The Jupyter Notebook is running at:
+[I 02:16:56.901 NotebookApp] http://172.17.63.2:8786/?token=a23835de0a26109bfd99467fd048c6511ae71aa9cacd0908
+[I 02:16:56.901 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 02:16:56.903 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://172.17.63.2:8786/?token=a23835de0a26109bfd99467fd048c6511ae71aa9cacd0908
+slurmstepd: error: *** JOB 2878937 ON stage2 CANCELLED AT 2018-05-03T02:17:19 ***
