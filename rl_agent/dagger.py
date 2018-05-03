@@ -12,13 +12,14 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
 from keras.utils import to_categorical
-
 # Immitation Learning: learn a mapping from observations to actions.
 from rl_agent.pomm_network import PommNetwork
 
 batch_size = 1024
-epochs = 10
-num_rollouts = 3
+epochs = 25
+initial_rollouts = 5
+num_rollouts = 5
+iterations = 100
 
 class Agent:
     def __init__(self, actions, seed=0, save_path="./model/model.cptk", log_path='./logs/', save_best_model=True, learning_rate=1e-3):
@@ -28,9 +29,10 @@ class Agent:
         self.seed = seed
         self.sess = tf.InteractiveSession()
         self.rewards = []
+        self.cur_epoch = 0
         if os.path.isdir(log_path):
             try:
-                shutil.rmtree(log_path, ignore_errors=True)
+                os.removedirs(log_path)
             except:
                 print("Cant delete log folder")
 
@@ -89,32 +91,40 @@ class Agent:
     def train(self, obs, labels, batch_size, epochs):
         print("Train the agent with %i training data, batch_size %i, epochs %i" % (obs.shape[0], batch_size, epochs))
         train_obs, val_obs, train_labels, val_labels = train_test_split(obs, labels, test_size=0.2, random_state=self.seed)
-        prev_loss = np.inf
+        best_loss = np.inf
+        not_improved = 0
         for i in range(epochs):
             train_acc, train_loss = self.__run_batch(train_obs, train_labels, batch_size)
             val_acc, val_loss = self.__run_batch(val_obs, val_labels, batch_size, training=False)
-            print("Epoch %d: train_acc %f, train_loss %f, test_acc %f, test_loss: %f" % (i, train_acc, train_loss, val_acc, val_loss))
+            print("Epoch %d: train_acc %f, train_loss %f, test_acc %f, test_loss: %f" % (i + 1, train_acc, train_loss, val_acc, val_loss))
 
             summary = tf.summary.Summary()
             summary.value.add(tag="Train acc", simple_value=train_acc)
             summary.value.add(tag="Train loss", simple_value=train_loss)
-            self.train_writer.add_summary(summary, i)
+            self.train_writer.add_summary(summary, self.cur_epoch)
             summary.value.add(tag="Val acc", simple_value=val_acc)
             summary.value.add(tag="Val loss", simple_value=val_loss)
-            self.test_writer.add_summary(summary, i)
+            self.test_writer.add_summary(summary, self.cur_epoch)
+            self.cur_epoch += 1
+            if not_improved > 3:
+                print("Early stopping")
+                break
             try:
                 if self.save_best_model:
-                    if val_loss < prev_loss:
+                    if val_loss < best_loss:
+                        not_improved = 0
                         print("Saving model")
                         self.saver.save(self.sess, self.save_path)
                         print("Model was saved successfully")
+                        best_loss = val_loss
+                    else:
+                        not_improved += 1
                 else:
                     print("Saving model")
                     self.saver.save(self.sess, self.save_path)
                     print("Model was saved successfully")
             except:
                 print("Failed save model")
-            prev_loss = val_loss
 
     @staticmethod
     def featurize(obs):
@@ -209,7 +219,6 @@ class Stimulator:
         observations = []
         actions = []
         for i in range(num_rollouts):
-            print('Iteration', i)
             obs = self.env.reset()[self.env.training_agent]
             done = False
             totalr = 0.
@@ -219,9 +228,6 @@ class Stimulator:
                     self.env.render()
 
                 action = agent.act(obs)
-                observations.append(obs)
-                actions.append(action)
-
                 obs = self.env.get_observations()
                 all_actions = self.env.act(obs)
                 all_actions.insert(self.env.training_agent, action)
@@ -231,6 +237,9 @@ class Stimulator:
                 r = reward[self.env.training_agent]
                 totalr += r
                 steps += 1
+
+                observations.append(obs)
+                actions.append(action)
 
             print('rollout %i/%i return=%f' % (i + 1, num_rollouts, totalr))
             returns.append(totalr)
@@ -245,34 +254,29 @@ class Stimulator:
         return np.array(actions)
 
 
-def main():
-    # Instantiate the environment
-    config = ffa_v0_env()
-    env = Pomme(**config["env_kwargs"])
-    states = {
-        "board": dict(shape=(BOARD_SIZE, BOARD_SIZE, 3,), type='float'),
-        "state": dict(shape=(3,), type='float')
-    }
-    agent_dagger = Agent(env.action_space.n)
-    # Load Expert
-    expert = Expert(config["agent"](0, config["game_type"]))
+# Instantiate the environment
+config = ffa_v0_env()
+env = Pomme(**config["env_kwargs"])
+states = {
+    "board": dict(shape=(BOARD_SIZE, BOARD_SIZE, 3,), type='float'),
+    "state": dict(shape=(3,), type='float')
+}
+agent_dagger = Agent(env.action_space.n)
+# Load Expert
+expert = Expert(config["agent"](0, config["game_type"]))
 
-    # Generate training data
-    stimulator = Stimulator(env, config)
-    training_data = stimulator.stimulate(expert, num_rollouts=num_rollouts, render=False)
-    # Train DAgger Agent
-    obs = training_data[0]
-    labls = training_data[1]
-    for i in range(2, 15):
-        print("Train with DAgger, iter %i" % i)
-        (stimulated_env, _) = stimulator.stimulate(agent_dagger, num_rollouts=num_rollouts, render=False)
-        labels = stimulator.label_obs(expert, stimulated_env)
-        obs = np.append(obs, stimulated_env, axis=0)
-        labls = np.append(labls, labels, axis=0)
-        agent_dagger.train(obs, labls, batch_size=batch_size, epochs=epochs)
-    agent_dagger.close()
-    env.close()
-
-
-if __name__ == '__main__':
-    main()
+# Generate training data
+stimulator = Stimulator(env, config)
+training_data = stimulator.stimulate(expert, num_rollouts=initial_rollouts, render=False)
+# Train DAgger Agent
+obs = training_data[0]
+labls = training_data[1]
+for i in range(2, iterations):
+    print("Train with DAgger, iter %i" % i)
+    (stimulated_env, _) = stimulator.stimulate(agent_dagger, num_rollouts=num_rollouts, render=False)
+    labels = stimulator.label_obs(expert, stimulated_env)
+    obs = np.append(obs, stimulated_env, axis=0)
+    labls = np.append(labls, labels, axis=0)
+    agent_dagger.train(obs, labls, batch_size=batch_size, epochs=epochs)
+agent_dagger.close()
+env.close()
