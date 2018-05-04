@@ -23,40 +23,9 @@ if os.path.isdir(log_path):
     shutil.rmtree(log_path, ignore_errors=True)
 os.mkdir(log_path)
 
-def reward_function(agents, game_type, step_count, max_steps):
-    def any_lst_equal(lst, values):
-        return any([lst == v for v in values])
-
-    alive_agents = [num for num, agent in enumerate(agents) if agent.is_alive]
-    if game_type == GameType.FFA:
-        if len(alive_agents) == 1:
-            # An agent won. Give them +1, others -1.
-            return [2 * int(agent.is_alive) - 1 for agent in agents]
-        elif step_count >= max_steps:
-            # Game is over from time. Everyone gets -1.
-            return [-1] * 4
-        # TODO
-        else:
-            # Game running: 0 for alive, -1 for dead.
-            return [int(agent.is_alive) - 1 for agent in agents]
-    else:
-        # We are playing a team game.
-        if any_lst_equal(alive_agents, [[0, 2], [0], [2]]):
-            # Team [0, 2] wins.
-            return [1, -1, 1, -1]
-        elif any_lst_equal(alive_agents, [[1, 3], [1], [3]]):
-            # Team [1, 3] wins.
-            return [-1, 1, -1, 1]
-        elif step_count >= max_steps:
-            # Game is over by max_steps. All agents tie.
-            return [-1] * 4
-        # No team has yet won or lost.
-        return [0] * 4
-
-
 # Instantiate the environment
 config = ffa_v0_env()
-env = Pomme(**config["env_kwargs"], custom_reward=reward_function)
+env = Pomme(**config["env_kwargs"])
 env.seed(0)
 
 # Create a Proximal Policy Optimization agent

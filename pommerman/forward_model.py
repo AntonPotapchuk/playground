@@ -107,9 +107,8 @@ class ForwardModel(object):
     def step(actions, curr_board, curr_agents, curr_bombs, curr_items,
              curr_flames,training_agent=None):
         board_size = len(curr_board)
-        train_reward = None
-        if training_agent is not None:
-            train_reward = 0
+        train_reward = 0
+
         # Tick the flames. Replace any dead ones with passages. If there is an item there, then reveal that item.
         flames = []
         for flame in curr_flames:

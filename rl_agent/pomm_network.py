@@ -77,15 +77,19 @@ class PommNetwork(Network):
                 fc_inp1 = tf.layers.dense(dence1, 32, activation=tf.nn.relu)
 
             with tf.variable_scope("ConvNetModel"):
-                conv1 = tf.layers.conv2d(board, 32, 2, activation=tf.nn.relu)
-                conv1 = tf.layers.conv2d(conv1, 32, 2, activation=tf.nn.relu)
-                conv1 = tf.layers.conv2d(conv1, 64, 3, activation=tf.nn.relu)
-                conv1 = tf.layers.conv2d(conv1, 64, 3, activation=tf.nn.relu)
-                conv1 = tf.layers.conv2d(conv1, 128, 3, activation=tf.nn.relu)
+                conv1 = tf.layers.conv2d(board, 128, 2, activation=tf.nn.relu)
+                conv1 = tf.layers.conv2d(conv1, 256, 2, activation=tf.nn.relu)
+                conv1 = tf.layers.conv2d(conv1, 256, 2, activation=tf.nn.relu)
+                conv1 = tf.layers.conv2d(conv1, 256, 2, activation=tf.nn.relu)
+                conv1 = tf.layers.conv2d(conv1, 256, 2, activation=tf.nn.relu)
+                conv1 = tf.layers.conv2d(conv1, 512, 2, activation=tf.nn.relu)
+                conv1 = tf.layers.conv2d(conv1, 512, 2, activation=tf.nn.relu)
+                conv1 = tf.layers.conv2d(conv1, 512, 3, activation=tf.nn.relu)
+                conv1 = tf.layers.conv2d(conv1, 512, 3, activation=tf.nn.relu)
                 fc_inp2 = tf.layers.flatten(conv1)
 
             fc_inp = tf.concat([fc_inp1, fc_inp2], -1)
             fc = tf.layers.dense(fc_inp, 512, activation=tf.nn.relu)
-            fc = tf.layers.dense(fc, 256, activation=tf.nn.relu)
+            fc = tf.layers.dense(fc, 512, activation=tf.nn.relu)
             fc = tf.layers.dense(fc, 256, activation=tf.nn.relu)
         return fc
