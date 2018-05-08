@@ -4,7 +4,7 @@
 #SBATCH --time 2-00:00:00
 #SBATCH --gres=gpu:tesla
 #SBATCH --mem 11000
-#SBATCH --job-name Dagger
+#SBATCH --job-name Pommerman
 #SBATCH --output ./logs/jupyter-log-%J.txt
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=antpotapchuk@gmail.com
