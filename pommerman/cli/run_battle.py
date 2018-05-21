@@ -30,7 +30,6 @@ def run(args, num_times=1, seed=None):
     record_json_dir = args.record_json_dir
     agent_env_vars = args.agent_env_vars
     game_state_file = args.game_state_file
-    render_mode = args.render_mode
 
     # TODO: After https://github.com/MultiAgentLearning/playground/pull/40
     #       this is still missing the docker_env_dict parsing for the agents.
@@ -39,12 +38,14 @@ def run(args, num_times=1, seed=None):
         for agent_id, agent_string in enumerate(args.agents.split(','))
     ]
 
-    env = make(config, agents, game_state_file, render_mode=render_mode)
+    env = make(config, agents, game_state_file)
 
-    if record_pngs_dir and not os.path.isdir(record_pngs_dir):
-        os.makedirs(record_pngs_dir)
-    if record_json_dir and not os.path.isdir(record_json_dir):
-        os.makedirs(record_json_dir)
+    if args.record_pngs_dir:
+        assert not os.path.isdir(args.record_pngs_dir)
+        os.makedirs(args.record_pngs_dir)
+    if args.record_json_dir:
+        assert not os.path.isdir(args.record_json_dir)
+        os.makedirs(args.record_json_dir)
 
     def _run(seed, record_pngs_dir=None, record_json_dir=None):
         env.seed(seed)
@@ -56,8 +57,7 @@ def run(args, num_times=1, seed=None):
             steps += 1
             if args.render:
                 env.render(record_pngs_dir=args.record_pngs_dir,
-                           record_json_dir=args.record_json_dir,
-                           mode=args.render_mode)
+                           record_json_dir=args.record_json_dir)
             actions = env.act(obs)
             obs, reward, done, info = env.step(actions)
 
@@ -67,10 +67,7 @@ def run(args, num_times=1, seed=None):
         print("Final Result: ", info)
         if args.render:
             env.render(record_pngs_dir=args.record_pngs_dir,
-                       record_json_dir=args.record_json_dir, 
-                       mode=args.render_mode)
-            time.sleep(5)
-            env.render(close=True)
+                       record_json_dir=args.record_json_dir, close=True)
         return info
 
     infos = []
@@ -126,13 +123,9 @@ def main():
                         default=None,
                         help='Directory to record the JSON representations of '
                         "the game. Doesn't record if None.")
-    parser.add_argument("--render",
-                        default=False,
-                        action='store_true',
-                        help="Whether to render or not. Defaults to False.")
-    parser.add_argument('--render_mode',
-                        default='human',
-                        help="What mode to render. Options are human, rgb_pixel, and rgb_array")
+    parser.add_argument('--render',
+                        default=True,
+                        help="Whether to render or not. Defaults to True.")
     parser.add_argument('--game_state_file',
                         default=None,
                         help="File from which to load game state.")

@@ -1,0 +1,43 @@
+
+
+   Copy/Paste this in your local terminal to ssh tunnel with remote 
+   ------------------------------------------------------------------
+   ssh -N -L 9326:172.17.63.154:9326 anton95@falcon2.hpc.ut.ee
+   ------------------------------------------------------------------
+
+
+   Then open a browser on your local machine to the following address
+   ------------------------------------------------------------------
+   localhost:9326                                                
+   ------------------------------------------------------------------
+
+
+[I 05:35:48.241 NotebookApp] Serving notebooks from local directory: /gpfs/hpchome/anton95/playground
+[I 05:35:48.241 NotebookApp] 0 active kernels
+[I 05:35:48.241 NotebookApp] The Jupyter Notebook is running at:
+[I 05:35:48.242 NotebookApp] http://172.17.63.154:9326/?token=4e502e6de981a82baea2bce434ce8e743613e2264aae9eed
+[I 05:35:48.242 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 05:35:48.256 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://172.17.63.154:9326/?token=4e502e6de981a82baea2bce434ce8e743613e2264aae9eed
+[I 13:11:35.228 NotebookApp] 302 GET /?token=4e502e6de981a82baea2bce434ce8e743613e2264aae9eed (172.18.3.194) 14.74ms
+[W 13:15:12.886 NotebookApp] delete /rl_agent/logs
+[W 13:15:29.699 NotebookApp] delete /rl_agent/model
+[I 13:15:39.919 NotebookApp] Kernel started: 770ab729-892b-4746-9b77-ad2e4a4eb7f2
+[W 13:15:50.095 NotebookApp] Timeout waiting for kernel_info reply from 770ab729-892b-4746-9b77-ad2e4a4eb7f2
+[I 13:15:51.269 NotebookApp] Adapting to protocol v5.1 for kernel 770ab729-892b-4746-9b77-ad2e4a4eb7f2
+[I 13:17:39.679 NotebookApp] Saving file at /rl_agent/dagger.ipynb
+[I 13:17:51.535 NotebookApp] Starting buffering for 770ab729-892b-4746-9b77-ad2e4a4eb7f2:19073149ff2c464c83e225783833806e
+[I 13:17:51.749 NotebookApp] Kernel restarted: 770ab729-892b-4746-9b77-ad2e4a4eb7f2
+[I 13:17:52.565 NotebookApp] Restoring connection for 770ab729-892b-4746-9b77-ad2e4a4eb7f2:19073149ff2c464c83e225783833806e
+[I 13:17:52.565 NotebookApp] Replaying 3 buffered messages
+[I 13:19:40.223 NotebookApp] Saving file at /rl_agent/dagger.ipynb
+[I 13:27:16.121 NotebookApp] Starting buffering for 770ab729-892b-4746-9b77-ad2e4a4eb7f2:19073149ff2c464c83e225783833806e
+[W 13:27:17.081 NotebookApp] Notebook rl_agent/dagger.ipynb is not trusted
+[I 13:27:22.558 NotebookApp] Saving file at /rl_agent/dagger.ipynb
+[I 13:27:30.918 NotebookApp] Creating new notebook in /rl_agent
+[I 13:27:31.828 NotebookApp] Kernel started: 16b68ebd-c245-4f60-b372-0c8507cee27b
+[I 13:27:32.575 NotebookApp] Starting buffering for 770ab729-892b-4746-9b77-ad2e4a4eb7f2:844fe3c7de6543f3a6e2f55ea13e1f3a
+[I 13:27:41.622 NotebookApp] Adapting to protocol v5.1 for kernel 16b68ebd-c245-4f60-b372-0c8507cee27b
