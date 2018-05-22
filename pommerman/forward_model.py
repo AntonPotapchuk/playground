@@ -166,31 +166,30 @@ class ForwardModel(object):
             curr_board[position] = constants.Item.Passage.value
             action = actions[agent.agent_id]
 
-                if action == constants.Action.Stop.value:
-                    # Prevent from too much stops
-                    if agent.agent_id == training_agent:
-                        train_reward -= 0.001
+            if action == constants.Action.Stop.value:
+                # Prevent from too much stops
+                if agent.agent_id == training_agent:
+                    train_reward -= 0.001
+                agent.stop()
+            elif action == constants.Action.Bomb.value:
+                bomb = agent.maybe_lay_bomb()
+                if bomb:
+                    curr_bombs.append(bomb)
+            elif utility.is_valid_direction(curr_board, position, action):
+                next_position = agent.get_next_position(action)
+                # This might be a bomb position. Only move in that case if the agent can kick.
+                if not utility.position_is_bomb(curr_board, next_position):
+                    next_positions[agent.agent_id] = next_position
+                elif not agent.can_kick:
                     agent.stop()
-                elif action == constants.Action.Bomb.value:
-                    bomb = agent.maybe_lay_bomb()
-                    if bomb:
-                        curr_bombs.append(bomb)
-                elif utility.is_valid_direction(curr_board, position, action):
-                    next_position = agent.get_next_position(action)
-
-                    # This might be a bomb position. Only move in that case if the agent can kick.
-                    if not utility.position_is_bomb(curr_board, next_position):
-                        next_positions[agent.agent_id] = next_position
-                    elif not agent.can_kick:
-                        agent.stop()
-                    else:
-                        next_positions[agent.agent_id] = next_position
                 else:
-                    # The agent made an invalid direction.
-                    agent.stop()
-                    if agent.agent_id == training_agent:
-                        # Prevent from stupid actions
-                        train_reward -= 0.005
+                    next_positions[agent.agent_id] = next_position
+            else:
+                # The agent made an invalid direction.
+                agent.stop()
+                if agent.agent_id == training_agent:
+                    # Prevent from stupid actions
+                    train_reward -= 0.005
             else:
                 next_positions[agent.agent_id] = None
 
