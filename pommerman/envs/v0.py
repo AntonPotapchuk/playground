@@ -50,7 +50,7 @@ class Pomme(gym.Env):
         self._is_partially_observable = is_partially_observable
 
         self.training_agent = None
-        self.model = forward_model.ForwardModel(custom_reward=custom_reward)
+        self.model = forward_model.ForwardModel()
 
         # Observation and Action Spaces. These are both geared towards a single
         # agent even though the environment expects actions and returns
