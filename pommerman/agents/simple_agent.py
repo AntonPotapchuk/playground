@@ -366,12 +366,8 @@ class SimpleAgent(BaseAgent):
             return None
 
         next_position = position
-        try:
-            while prev[next_position] != my_position:
-                next_position = prev[next_position]
-        except:
-            print(prev, next_position, my_position)
-            return None
+        while prev[next_position] != my_position:
+            next_position = prev[next_position]
 
         return utility.get_direction(my_position, next_position)
 
