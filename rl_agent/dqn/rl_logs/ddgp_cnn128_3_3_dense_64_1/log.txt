@@ -1,0 +1,1 @@
+{"loss": [NaN], "mean_absolute_error": [NaN], "mean_q": [NaN], "episode_reward": [-1.0], "nb_episode_steps": [30], "nb_steps": [30], "episode": [0], "duration": [0.6928150301203659]}
