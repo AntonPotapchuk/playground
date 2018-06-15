@@ -3080,3 +3080,13 @@ totalMemory: 11.91GiB freeMemory: 11.63GiB
 [I 14:40:21.807 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
 [I 14:45:07.666 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
 [I 14:49:27.674 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+[I 14:53:47.671 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+[I 14:58:07.815 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+[I 15:02:27.755 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+[I 15:05:39.062 NotebookApp] Kernel shutdown: a336c30e-b46b-4b36-9082-12d207e2aed1
+[W 15:05:39.064 NotebookApp] zmq message arrived on closed channel
+[W 15:05:39.068 NotebookApp] zmq message arrived on closed channel
+[W 15:05:39.071 NotebookApp] zmq message arrived on closed channel
+[I 15:06:47.677 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+[I 15:11:07.675 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+[I 15:15:27.688 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb

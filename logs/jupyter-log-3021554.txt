@@ -1,0 +1,43 @@
+
+
+   Copy/Paste this in your local terminal to ssh tunnel with remote 
+   ------------------------------------------------------------------
+   ssh -N -L 9090:172.17.63.153:9090 anton95@falcon1.hpc.ut.ee
+   ------------------------------------------------------------------
+
+
+   Then open a browser on your local machine to the following address
+   ------------------------------------------------------------------
+   localhost:9090                                                
+   ------------------------------------------------------------------
+
+
+[I 15:01:54.059 NotebookApp] Serving notebooks from local directory: /gpfs/hpchome/anton95/playground
+[I 15:01:54.062 NotebookApp] 0 active kernels
+[I 15:01:54.062 NotebookApp] The Jupyter Notebook is running at:
+[I 15:01:54.062 NotebookApp] http://172.17.63.153:9090/?token=999029e71697e54c86d8e078cf93fd916799b3c150667cae
+[I 15:01:54.062 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:01:54.065 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://172.17.63.153:9090/?token=999029e71697e54c86d8e078cf93fd916799b3c150667cae
+[I 15:02:04.429 NotebookApp] 302 GET /?token=999029e71697e54c86d8e078cf93fd916799b3c150667cae (172.18.2.168) 1.35ms
+[I 15:02:22.452 NotebookApp] Kernel started: 8a0bdcc2-628c-44b6-be87-ea0b6732ea1f
+[I 15:02:24.682 NotebookApp] Adapting to protocol v5.1 for kernel 8a0bdcc2-628c-44b6-be87-ea0b6732ea1f
+[I 15:02:25.084 NotebookApp] Copying rl_agent/behaviour_clonning_go_3res_block.ipynb to /rl_agent
+[I 15:02:26.216 NotebookApp] Kernel started: 20e3322a-4813-42c1-ab07-5f5021e076f6
+[I 15:02:26.517 NotebookApp] Starting buffering for 8a0bdcc2-628c-44b6-be87-ea0b6732ea1f:aba52a51f309430aafa06492ac335d74
+[I 15:02:26.817 NotebookApp] Adapting to protocol v5.1 for kernel 20e3322a-4813-42c1-ab07-5f5021e076f6
+2018-06-15 15:04:05.953445: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2018-06-15 15:04:10.462423: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1030] Found device 0 with properties: 
+name: Tesla P100-PCIE-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.3285
+pciBusID: 0000:08:00.0
+totalMemory: 15.89GiB freeMemory: 15.61GiB
+2018-06-15 15:04:10.462528: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla P100-PCIE-16GB, pci bus id: 0000:08:00.0, compute capability: 6.0)
+[I 15:04:26.668 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:06:26.679 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:08:26.680 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:10:26.671 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:12:26.675 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:14:26.675 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb

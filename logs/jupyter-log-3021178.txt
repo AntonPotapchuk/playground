@@ -294,3 +294,31 @@ totalMemory: 11.91GiB freeMemory: 11.63GiB
 [I 13:24:52.591 NotebookApp] Adapting to protocol v5.1 for kernel 1b8b0e9d-9469-4adf-b6c8-042326006294
 [I 13:24:52.592 NotebookApp] Discarding 15947 buffered messages for 1b8b0e9d-9469-4adf-b6c8-042326006294:1bd9b8aa9918464e9ec66ef553d6aabd
 [I 13:26:52.632 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block.ipynb
+[I 14:56:52.860 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block.ipynb
+[I 14:58:31.035 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block.ipynb
+[I 14:58:31.205 NotebookApp] Copying rl_agent/behaviour_clonning_go_3res_block.ipynb to /rl_agent
+[I 14:58:33.108 NotebookApp] Kernel started: 28a13e5f-e285-434b-9fed-1bf4be74fb99
+[I 14:58:37.554 NotebookApp] Starting buffering for 1b8b0e9d-9469-4adf-b6c8-042326006294:c7975f095e284f8d846fe4e2abbc5bdb
+[I 14:58:38.872 NotebookApp] Kernel shutdown: 1b8b0e9d-9469-4adf-b6c8-042326006294
+[W 14:58:43.298 NotebookApp] Timeout waiting for kernel_info reply from 28a13e5f-e285-434b-9fed-1bf4be74fb99
+[I 14:58:43.483 NotebookApp] Adapting to protocol v5.1 for kernel 28a13e5f-e285-434b-9fed-1bf4be74fb99
+[I 15:00:33.745 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_1cnn.ipynb
+2018-06-15 15:00:48.833717: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2018-06-15 15:00:54.643247: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1030] Found device 0 with properties: 
+name: Tesla P100-PCIE-12GB major: 6 minor: 0 memoryClockRate(GHz): 1.3285
+pciBusID: 0000:05:00.0
+totalMemory: 11.91GiB freeMemory: 11.63GiB
+2018-06-15 15:00:54.643355: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla P100-PCIE-12GB, pci bus id: 0000:05:00.0, compute capability: 6.0)
+[I 15:02:33.676 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_1cnn.ipynb
+[I 15:04:33.676 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_1cnn.ipynb
+[I 15:06:33.686 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_1cnn.ipynb
+[I 15:08:33.685 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_1cnn.ipynb
+[I 15:10:33.679 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_1cnn.ipynb
+[I 15:12:33.119 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_1cnn.ipynb
+[I 15:14:33.685 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_1cnn.ipynb
+[W 15:15:19.862 NotebookApp] delete /rl_agent/novin.ipynb
+[W 15:15:28.806 NotebookApp] delete /rl_agent/simple_il_cnn2_128_dense1.ipynb
+[W 15:15:28.894 NotebookApp] delete /rl_agent/simple_il_cnn2dense1.ipynb
+[W 15:15:28.918 NotebookApp] delete /rl_agent/simple_il_cnn2dense128.ipynb
+[W 15:15:28.949 NotebookApp] delete /rl_agent/simple_il_dense1.ipynb
+[W 15:15:29.002 NotebookApp] delete /rl_agent/Untitled.ipynb
