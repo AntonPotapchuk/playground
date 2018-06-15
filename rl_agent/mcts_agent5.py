@@ -130,7 +130,7 @@ class MCTSAgent(BaseAgent):
         for i in range(num_iters):
             # restore game state to root node
             obs = self.env.reset()
-            print('\rStep %d: iteration %d' % (self.env._step_count, i + 1), end=' ')
+            #print('\rStep %d: iteration %d' % (self.env._step_count, i + 1), end=' ')
             # serialize game state
             state = str(self.env.get_json_info())
 
@@ -193,7 +193,7 @@ class MCTSAgent(BaseAgent):
             # print(self.tree[root].Q)
             # print("Root N:")
             # print(self.tree[root].N)
-            print(self.tree[root].N, self.tree[root].Q, end='')
+            # print(self.tree[root].N, self.tree[root].Q, end='')
 
         # print("(tree hits: %0.2f, avg. len: %0.2f, tree size: %d)" % (hits / (hits + misses), total_length / num_iters, len(self.tree)))
         elapsed = time.time() - start_time
@@ -206,7 +206,7 @@ class MCTSAgent(BaseAgent):
         self.env._init_game_state = None
         # return action probabilities
         pi = self.tree[root].probs(temperature)
-        print()
+        # print()
         idx = (pi != 0)
         self.entropies.append(-np.sum(pi[idx] * np.log(pi[idx])))
         return pi
@@ -250,10 +250,10 @@ class MCTSAgent(BaseAgent):
             # step environment
             obs, rewards, done, info = self.env.step(actions)
             assert self == self.env._agents[self.agent_id]
-            print("Agent:", self.agent_id, "Step:", self.env._step_count, "Actions:",
-                  [constants.Action(a).name for a in actions], "Probs:", [round(p, 2) for p in pi],
-                  "Entropy: %.2f" % self.entropies[-1], "Iters/s: %.2f" % self.iters_sec[-1], "Rewards:", rewards,
-                  "Done:", done)
+            #print("Agent:", self.agent_id, "Step:", self.env._step_count, "Actions:",
+            #      [constants.Action(a).name for a in actions], "Probs:", [round(p, 2) for p in pi],
+            #      "Entropy: %.2f" % self.entropies[-1], "Iters/s: %.2f" % self.iters_sec[-1], "Rewards:", rewards,
+            #      "Done:", done)
 
             # print("Rollout finished:", finished.value)
 

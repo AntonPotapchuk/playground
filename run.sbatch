@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --partition gpu
 #SBATCH --nodes 1
-#SBATCH --time 2-00:00:00
+#SBATCH --time 4-00:00:00
 #SBATCH --gres=gpu:tesla
 #SBATCH --mem 11000
 #SBATCH --job-name Pommerman
@@ -9,6 +9,8 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=antpotapchuk@gmail.com
 #SBATCH --cpus-per-task=16
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=antpotapchuk@gmail.com
 
 # Some modules
 module load python-3.6.0

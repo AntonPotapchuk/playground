@@ -176,3 +176,11 @@ local
 ####################
 a/static/js/build/*
 a/static/css/*
+
+
+rl_agent/dqn
+rl_agent/ppo
+rl_agent/supervised_learning
+rl_agent/mcts
+rl_agent/dataset
+./logs
