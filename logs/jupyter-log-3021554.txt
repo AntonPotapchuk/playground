@@ -41,3 +41,2813 @@ totalMemory: 15.89GiB freeMemory: 15.61GiB
 [I 15:10:26.671 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
 [I 15:12:26.675 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
 [I 15:14:26.675 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:16:26.678 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:18:26.294 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:20:26.617 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:22:26.681 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:24:26.700 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:26:26.692 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:28:26.689 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:30:26.683 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:32:26.685 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:34:26.698 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:36:26.697 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:38:26.689 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:40:26.691 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:42:26.698 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:44:26.696 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:46:26.695 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:48:26.707 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:50:29.567 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:52:26.699 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:54:26.734 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:56:26.720 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 15:58:26.711 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 16:00:26.892 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 16:02:26.702 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 16:04:26.706 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 16:06:26.704 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 16:08:26.709 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 16:10:26.717 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 16:12:26.850 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[I 16:14:18.095 NotebookApp] Starting buffering for 20e3322a-4813-42c1-ab07-5f5021e076f6:f3a7c479ab174955899d23c042fdbabb
+[I 16:19:45.804 NotebookApp] Adapting to protocol v5.1 for kernel 20e3322a-4813-42c1-ab07-5f5021e076f6
+[I 16:19:45.806 NotebookApp] Discarding 576 buffered messages for 20e3322a-4813-42c1-ab07-5f5021e076f6:f3a7c479ab174955899d23c042fdbabb
+[I 16:20:46.874 NotebookApp] Starting buffering for 20e3322a-4813-42c1-ab07-5f5021e076f6:a9aa7d8e4d074a618b624a317e57f7e8
+[I 16:20:48.114 NotebookApp] Adapting to protocol v5.1 for kernel 20e3322a-4813-42c1-ab07-5f5021e076f6
+[I 16:20:48.117 NotebookApp] Discarding 3 buffered messages for 20e3322a-4813-42c1-ab07-5f5021e076f6:a9aa7d8e4d074a618b624a317e57f7e8
+[W 16:38:48.117 NotebookApp] WebSocket ping timeout after 119925 ms.
+[E 16:38:48.246 NotebookApp] Uncaught exception GET /api/kernels/20e3322a-4813-42c1-ab07-5f5021e076f6/channels?session_id=bc0b6aec99c34646ab2d56062670bd08 (172.18.3.114)
+    HTTPServerRequest(protocol='http', host='172.17.63.153:9090', method='GET', uri='/api/kernels/20e3322a-4813-42c1-ab07-5f5021e076f6/channels?session_id=bc0b6aec99c34646ab2d56062670bd08', version='HTTP/1.1', remote_ip='172.18.3.114')
+    Traceback (most recent call last):
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 16:38:48.764 NotebookApp] Uncaught exception GET /api/kernels/20e3322a-4813-42c1-ab07-5f5021e076f6/channels?session_id=bc0b6aec99c34646ab2d56062670bd08 (172.18.3.114)
+    HTTPServerRequest(protocol='http', host='172.17.63.153:9090', method='GET', uri='/api/kernels/20e3322a-4813-42c1-ab07-5f5021e076f6/channels?session_id=bc0b6aec99c34646ab2d56062670bd08', version='HTTP/1.1', remote_ip='172.18.3.114')
+    Traceback (most recent call last):
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 16:38:49.279 NotebookApp] Uncaught exception GET /api/kernels/20e3322a-4813-42c1-ab07-5f5021e076f6/channels?session_id=bc0b6aec99c34646ab2d56062670bd08 (172.18.3.114)
+    HTTPServerRequest(protocol='http', host='172.17.63.153:9090', method='GET', uri='/api/kernels/20e3322a-4813-42c1-ab07-5f5021e076f6/channels?session_id=bc0b6aec99c34646ab2d56062670bd08', version='HTTP/1.1', remote_ip='172.18.3.114')
+    Traceback (most recent call last):
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 16:38:49.797 NotebookApp] Uncaught exception GET /api/kernels/20e3322a-4813-42c1-ab07-5f5021e076f6/channels?session_id=bc0b6aec99c34646ab2d56062670bd08 (172.18.3.114)
+    HTTPServerRequest(protocol='http', host='172.17.63.153:9090', method='GET', uri='/api/kernels/20e3322a-4813-42c1-ab07-5f5021e076f6/channels?session_id=bc0b6aec99c34646ab2d56062670bd08', version='HTTP/1.1', remote_ip='172.18.3.114')
+    Traceback (most recent call last):
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 16:38:50.315 NotebookApp] Uncaught exception GET /api/kernels/20e3322a-4813-42c1-ab07-5f5021e076f6/channels?session_id=bc0b6aec99c34646ab2d56062670bd08 (172.18.3.114)
+    HTTPServerRequest(protocol='http', host='172.17.63.153:9090', method='GET', uri='/api/kernels/20e3322a-4813-42c1-ab07-5f5021e076f6/channels?session_id=bc0b6aec99c34646ab2d56062670bd08', version='HTTP/1.1', remote_ip='172.18.3.114')
+    Traceback (most recent call last):
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 16:38:50.834 NotebookApp] Uncaught exception GET /api/kernels/20e3322a-4813-42c1-ab07-5f5021e076f6/channels?session_id=bc0b6aec99c34646ab2d56062670bd08 (172.18.3.114)
+    HTTPServerRequest(protocol='http', host='172.17.63.153:9090', method='GET', uri='/api/kernels/20e3322a-4813-42c1-ab07-5f5021e076f6/channels?session_id=bc0b6aec99c34646ab2d56062670bd08', version='HTTP/1.1', remote_ip='172.18.3.114')
+    Traceback (most recent call last):
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 16:38:53.125 NotebookApp] Starting buffering for 20e3322a-4813-42c1-ab07-5f5021e076f6:bc0b6aec99c34646ab2d56062670bd08
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/gpfs/hpchome/anton95/.conda/envs/pommerman/lib/python3.6/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 14:41:02.832 NotebookApp] Adapting to protocol v5.1 for kernel 20e3322a-4813-42c1-ab07-5f5021e076f6
+[I 14:41:02.833 NotebookApp] Discarding 24502 buffered messages for 20e3322a-4813-42c1-ab07-5f5021e076f6:bc0b6aec99c34646ab2d56062670bd08

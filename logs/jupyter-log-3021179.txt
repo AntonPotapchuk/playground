@@ -3090,3 +3090,17 @@ totalMemory: 11.91GiB freeMemory: 11.63GiB
 [I 15:06:47.677 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
 [I 15:11:07.675 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
 [I 15:15:27.688 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+[I 15:19:47.682 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+[I 15:24:07.683 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+[I 15:28:27.695 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+[I 15:32:47.693 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+[I 15:37:07.695 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+[I 15:41:27.695 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+[I 15:45:47.688 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+[I 15:50:07.689 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+[I 15:54:27.697 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+[I 15:58:47.710 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+[I 16:03:07.923 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+[I 16:07:27.708 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+[I 16:11:47.916 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_5cnn.ipynb
+slurmstepd: error: *** JOB 3021179 ON falcon2 CANCELLED AT 2018-06-15T16:13:19 ***

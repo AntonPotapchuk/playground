@@ -1,0 +1,15 @@
+
+
+   Copy/Paste this in your local terminal to ssh tunnel with remote 
+   ------------------------------------------------------------------
+   ssh -N -L 8153:172.17.63.154:8153 anton95@falcon2.hpc.ut.ee
+   ------------------------------------------------------------------
+
+
+   Then open a browser on your local machine to the following address
+   ------------------------------------------------------------------
+   localhost:8153                                                
+   ------------------------------------------------------------------
+
+
+slurmstepd: error: *** JOB 3021555 ON falcon2 CANCELLED AT 2018-06-15T16:13:24 ***
