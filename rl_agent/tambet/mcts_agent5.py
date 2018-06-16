@@ -259,9 +259,9 @@ class MCTSAgent(BaseAgent):
         return trace, reward, rewards
 
     def act(self, obs, action_space):
-        feats = self.observation_to_features(obs)
-        feats = feats[np.newaxis, ...]
-        probs, values = self.model.predict(feats)
+        obs = self.observation_to_features(obs)
+        obs = np.array([obs])
+        probs, reward = self.model.predict(obs)
         probs = probs[0]
         return np.argmax(probs)
         # sample action from probabilities
