@@ -2851,3 +2851,14 @@ Traceback (most recent call last):
 tornado.websocket.WebSocketClosedError
 [I 14:41:02.832 NotebookApp] Adapting to protocol v5.1 for kernel 20e3322a-4813-42c1-ab07-5f5021e076f6
 [I 14:41:02.833 NotebookApp] Discarding 24502 buffered messages for 20e3322a-4813-42c1-ab07-5f5021e076f6:bc0b6aec99c34646ab2d56062670bd08
+[I 14:46:49.227 NotebookApp] Starting buffering for 20e3322a-4813-42c1-ab07-5f5021e076f6:caca029808524ab5837bf0f79e69be62
+[I 14:46:52.034 NotebookApp] Adapting to protocol v5.1 for kernel 20e3322a-4813-42c1-ab07-5f5021e076f6
+[I 14:48:52.869 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_elu_tanh.ipynb
+[W 15:24:52.038 NotebookApp] WebSocket ping timeout after 119920 ms.
+[I 15:24:57.041 NotebookApp] Starting buffering for 20e3322a-4813-42c1-ab07-5f5021e076f6:91dfbae09a7f4aac85df1d48e935bef6
+[I 17:43:21.508 NotebookApp] 302 GET /?token=999029e71697e54c86d8e078cf93fd916799b3c150667cae (172.18.3.169) 0.76ms
+[I 17:43:32.071 NotebookApp] Kernel shutdown: 8a0bdcc2-628c-44b6-be87-ea0b6732ea1f
+[I 17:43:36.555 NotebookApp] Kernel shutdown: 20e3322a-4813-42c1-ab07-5f5021e076f6
+[W 17:43:36.559 NotebookApp] 404 DELETE /api/sessions/24ef307c-99d7-443a-8849-c7ff3c94ffb0 (172.18.3.169): Session not found: session_id='24ef307c-99d7-443a-8849-c7ff3c94ffb0'
+[W 17:43:36.559 NotebookApp] Session not found: session_id='24ef307c-99d7-443a-8849-c7ff3c94ffb0'
+[W 17:43:36.560 NotebookApp] 404 DELETE /api/sessions/24ef307c-99d7-443a-8849-c7ff3c94ffb0 (172.18.3.169) 2.17ms referer=http://172.17.63.153:9090/tree

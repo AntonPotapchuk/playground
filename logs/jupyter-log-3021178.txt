@@ -841,3 +841,8 @@ Traceback (most recent call last):
 tornado.websocket.WebSocketClosedError
 [I 14:41:05.169 NotebookApp] Adapting to protocol v5.1 for kernel a330e35e-de90-457c-ab9c-ab212cdb33a2
 [I 14:41:05.180 NotebookApp] Discarding 24301 buffered messages for a330e35e-de90-457c-ab9c-ab212cdb33a2:f9bc495062b240c98565373498f1a943
+[I 14:46:50.273 NotebookApp] Starting buffering for a330e35e-de90-457c-ab9c-ab212cdb33a2:726740bb5ba74cbca16580fff129283f
+[I 14:46:52.933 NotebookApp] Adapting to protocol v5.1 for kernel a330e35e-de90-457c-ab9c-ab212cdb33a2
+[I 14:48:52.814 NotebookApp] Saving file at /rl_agent/behaviour_clonning_go_3res_block_tanh.ipynb
+[W 15:24:52.940 NotebookApp] WebSocket ping timeout after 119921 ms.
+[I 15:24:57.943 NotebookApp] Starting buffering for a330e35e-de90-457c-ab9c-ab212cdb33a2:478f097a3ece49b6bc3c2417358a1643
