@@ -12,7 +12,7 @@ from pommerman.envs.v0 import Pomme
 from pommerman.configs import ffa_competition_env
 from pommerman.agents import BaseAgent, SimpleAgent
 from pommerman import constants
-from rl_agent.tensorboard_utils import create_summary_writer, add_summary
+from tensorboard_utils import create_summary_writer, add_summary
 
 from keras.models import Model
 from keras.layers import Input, Flatten, Dense, Convolution2D, BatchNormalization, Activation, Add
@@ -357,6 +357,7 @@ def runner(id, model_file, fifo, finished, _args):
             break
         # add data samples to training set
         fifo.put((trace, reward, agent_id, agent.hit_probs, agent.avg_lengths, len(agent.tree), agent.entropies))
+    print("RUNNER KILLED")
 
 
 def trainer(num_iters, num_rollouts, model, writer, logdir):
@@ -401,9 +402,9 @@ def trainer(num_iters, num_rollouts, model, writer, logdir):
                     pass
             # save stats
             stat_tree_size.append(tree_size)
-            stat_hit_probs.append(hit_probs)
-            stat_avg_lengths.append(avg_lengths)
-            stat_entropies.append(entropies)
+            stat_hit_probs.append(np.mean(hit_probs))
+            stat_avg_lengths.append(np.mean(avg_lengths))
+            stat_entropies.append(np.mean(entropies))
             stat_reward_agent[agent_id].append(reward)
             stat_episode_length.append(len(trace))
             # add samples to replay memory
@@ -423,9 +424,11 @@ def trainer(num_iters, num_rollouts, model, writer, logdir):
         callbacks = [EarlyStopping(monitor='loss', min_delta=0, patience=5, verbose=1, mode='auto'),
                      ModelCheckpoint(os.path.join(logdir, "model_%d.hdf5" % num_iters), monitor='loss', save_best_only=True),
                      ReduceLROnPlateau(monitor='loss', patience=1, factor=0.1)]
-
         add_summary(writer, "tree/mean_size", np.mean(stat_tree_size), num_iters)
-        add_summary(writer, "tree/mean_hit_prob", float(np.mean(stat_hit_probs)), num_iters)
+        try:
+            add_summary(writer, "tree/mean_hit_prob", float(np.mean(stat_hit_probs)), num_iters)
+        except:
+            pass
         add_summary(writer, "tree/mean_rollout_len", float(np.mean(stat_avg_lengths)), num_iters)
         add_summary(writer, "episode/mean_entropy", float(np.mean(stat_entropies)), num_iters)
         try:

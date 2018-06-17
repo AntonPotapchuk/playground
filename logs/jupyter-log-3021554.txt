@@ -2862,3 +2862,181 @@ tornado.websocket.WebSocketClosedError
 [W 17:43:36.559 NotebookApp] 404 DELETE /api/sessions/24ef307c-99d7-443a-8849-c7ff3c94ffb0 (172.18.3.169): Session not found: session_id='24ef307c-99d7-443a-8849-c7ff3c94ffb0'
 [W 17:43:36.559 NotebookApp] Session not found: session_id='24ef307c-99d7-443a-8849-c7ff3c94ffb0'
 [W 17:43:36.560 NotebookApp] 404 DELETE /api/sessions/24ef307c-99d7-443a-8849-c7ff3c94ffb0 (172.18.3.169) 2.17ms referer=http://172.17.63.153:9090/tree
+[I 17:47:55.919 NotebookApp] Kernel started: 99dbc257-27b5-4801-9781-45a4e2003310
+[I 17:48:06.273 NotebookApp] Kernel shutdown: 99dbc257-27b5-4801-9781-45a4e2003310
+[I 17:48:06.275 NotebookApp] Adapting to protocol v5.1 for kernel 99dbc257-27b5-4801-9781-45a4e2003310
+[E 17:48:06.276 NotebookApp] Error opening stream: HTTP 404: Not Found (Kernel does not exist: 99dbc257-27b5-4801-9781-45a4e2003310)
+[I 17:49:13.136 NotebookApp] Kernel started: 43364776-68e6-4508-a2d4-f37992e5cb5a
+[I 17:49:14.179 NotebookApp] Adapting to protocol v5.1 for kernel 43364776-68e6-4508-a2d4-f37992e5cb5a
+[I 17:49:21.214 NotebookApp] Starting buffering for 43364776-68e6-4508-a2d4-f37992e5cb5a:7f030c881e1249ce8fc48622c87ab2b0
+[I 17:49:23.943 NotebookApp] Kernel shutdown: 43364776-68e6-4508-a2d4-f37992e5cb5a
+[I 18:33:22.374 NotebookApp] Kernel started: 06546eb7-f3b4-46ea-8e65-8a0cf0fd448d
+[I 18:33:32.427 NotebookApp] Adapting to protocol v5.1 for kernel 06546eb7-f3b4-46ea-8e65-8a0cf0fd448d
+[I 18:54:08.564 NotebookApp] Kernel started: a1590764-f8b3-4c2b-8cef-65244e56aded
+[I 18:54:10.337 NotebookApp] Kernel shutdown: 06546eb7-f3b4-46ea-8e65-8a0cf0fd448d
+[W 18:54:10.340 NotebookApp] zmq message arrived on closed channel
+[W 18:54:10.341 NotebookApp] zmq message arrived on closed channel
+[W 18:54:10.342 NotebookApp] zmq message arrived on closed channel
+[I 18:54:18.511 NotebookApp] Adapting to protocol v5.1 for kernel a1590764-f8b3-4c2b-8cef-65244e56aded
+[I 18:56:08.751 NotebookApp] Saving file at /rl_agent/generate_data.ipynb
+[I 20:10:07.376 NotebookApp] Kernel started: 4b116c26-78b1-47dc-add2-80a691271fa2
+[W 20:10:17.638 NotebookApp] Timeout waiting for kernel_info reply from 4b116c26-78b1-47dc-add2-80a691271fa2
+[I 20:10:37.596 NotebookApp] Adapting to protocol v5.1 for kernel 4b116c26-78b1-47dc-add2-80a691271fa2
+[I 21:15:48.174 NotebookApp] Starting buffering for 4b116c26-78b1-47dc-add2-80a691271fa2:53599d72819e4ada9dc06a35c83274d6
+[I 21:15:48.435 NotebookApp] Starting buffering for a1590764-f8b3-4c2b-8cef-65244e56aded:47cd236b407c46a486bfa0e749120b04
+[I 21:15:52.484 NotebookApp] Kernel shutdown: a1590764-f8b3-4c2b-8cef-65244e56aded
+[I 21:15:53.724 NotebookApp] Kernel shutdown: 4b116c26-78b1-47dc-add2-80a691271fa2
+[I 21:16:00.320 NotebookApp] Kernel started: 41f27a7a-8424-4c06-b5b5-ae1a325940ba
+[I 21:16:01.317 NotebookApp] Kernel started: ebf880b6-6fa3-4ed6-92d8-2e47884b82f7
+[I 21:16:11.053 NotebookApp] Kernel shutdown: 41f27a7a-8424-4c06-b5b5-ae1a325940ba
+[I 21:16:11.357 NotebookApp] Kernel shutdown: ebf880b6-6fa3-4ed6-92d8-2e47884b82f7
+[I 21:16:11.359 NotebookApp] Adapting to protocol v5.1 for kernel ebf880b6-6fa3-4ed6-92d8-2e47884b82f7
+[E 21:16:11.362 NotebookApp] Error opening stream: HTTP 404: Not Found (Kernel does not exist: ebf880b6-6fa3-4ed6-92d8-2e47884b82f7)
+[I 21:16:16.807 NotebookApp] Kernel started: edb7359a-110e-4be6-bc37-d9bec8587dca
+[I 21:16:20.066 NotebookApp] Adapting to protocol v5.1 for kernel edb7359a-110e-4be6-bc37-d9bec8587dca
+[I 21:16:29.390 NotebookApp] Starting buffering for edb7359a-110e-4be6-bc37-d9bec8587dca:ee7fae595e4e42cd94bfc68ae5f5681d
+[I 21:16:33.534 NotebookApp] Kernel shutdown: edb7359a-110e-4be6-bc37-d9bec8587dca
+[W 21:16:39.476 NotebookApp] delete /rl_agent/MCTS.ipynb
+[W 21:16:39.580 NotebookApp] delete /rl_agent/MCTS2.ipynb
+[I 21:16:42.105 NotebookApp] Creating new notebook in /rl_agent
+[I 21:16:43.386 NotebookApp] Kernel started: 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 21:16:43.950 NotebookApp] Adapting to protocol v5.1 for kernel 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 21:18:11.687 NotebookApp] Kernel started: 9662cd74-d752-4604-a426-1605fd743f6c
+[I 21:18:13.703 NotebookApp] Adapting to protocol v5.1 for kernel 9662cd74-d752-4604-a426-1605fd743f6c
+[I 21:18:20.382 NotebookApp] Starting buffering for 9662cd74-d752-4604-a426-1605fd743f6c:3b7986b34cb741838eab048af6b5354c
+[I 21:18:21.989 NotebookApp] Kernel shutdown: 9662cd74-d752-4604-a426-1605fd743f6c
+[I 21:18:46.053 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 21:20:45.739 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 21:22:41.584 NotebookApp] Kernel interrupted: 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 21:22:45.768 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 21:24:45.772 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 21:36:55.564 NotebookApp] Kernel interrupted: 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 21:37:27.468 NotebookApp] Kernel interrupted: 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 21:38:06.741 NotebookApp] Kernel interrupted: 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 21:38:38.661 NotebookApp] Kernel interrupted: 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 21:38:45.736 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 21:40:45.904 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 21:42:14.710 NotebookApp] Kernel interrupted: 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 21:42:46.045 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 21:44:45.751 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 21:46:45.793 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 21:48:45.745 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 21:50:45.842 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 21:52:45.825 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 21:54:45.950 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 21:54:53.783 NotebookApp] Kernel interrupted: 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 21:54:59.202 NotebookApp] Starting buffering for 54eac03f-13d5-42e3-b011-d22ba6e7dd33:b7815a7a0e534c1182faabe7354bc50a
+[I 21:54:59.530 NotebookApp] Kernel restarted: 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 21:55:08.841 NotebookApp] Adapting to protocol v5.1 for kernel 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 21:55:08.843 NotebookApp] Restoring connection for 54eac03f-13d5-42e3-b011-d22ba6e7dd33:b7815a7a0e534c1182faabe7354bc50a
+[I 21:55:08.843 NotebookApp] Replaying 6 buffered messages
+[I 21:56:46.122 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 21:57:21.147 NotebookApp] Kernel interrupted: 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 21:57:25.954 NotebookApp] Starting buffering for 54eac03f-13d5-42e3-b011-d22ba6e7dd33:b7815a7a0e534c1182faabe7354bc50a
+[I 21:57:26.391 NotebookApp] Kernel restarted: 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 21:57:35.409 NotebookApp] Adapting to protocol v5.1 for kernel 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 21:57:35.411 NotebookApp] Restoring connection for 54eac03f-13d5-42e3-b011-d22ba6e7dd33:b7815a7a0e534c1182faabe7354bc50a
+[I 21:57:35.411 NotebookApp] Replaying 6 buffered messages
+[I 21:58:46.060 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 22:28:47.247 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 22:36:47.244 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 22:46:47.635 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 22:51:44.867 NotebookApp] Starting buffering for 54eac03f-13d5-42e3-b011-d22ba6e7dd33:b7815a7a0e534c1182faabe7354bc50a
+[I 22:51:50.041 NotebookApp] Kernel restarted: 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 22:52:01.218 NotebookApp] Adapting to protocol v5.1 for kernel 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 22:52:01.220 NotebookApp] Restoring connection for 54eac03f-13d5-42e3-b011-d22ba6e7dd33:b7815a7a0e534c1182faabe7354bc50a
+[I 22:52:01.221 NotebookApp] Replaying 3 buffered messages
+[I 22:52:47.103 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[W 22:55:31.233 NotebookApp] WebSocket ping timeout after 119878 ms.
+[I 22:55:36.265 NotebookApp] Starting buffering for 54eac03f-13d5-42e3-b011-d22ba6e7dd33:b7815a7a0e534c1182faabe7354bc50a
+[I 22:56:15.850 NotebookApp] Adapting to protocol v5.1 for kernel 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 22:56:15.854 NotebookApp] Restoring connection for 54eac03f-13d5-42e3-b011-d22ba6e7dd33:b7815a7a0e534c1182faabe7354bc50a
+[I 22:56:47.245 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 23:00:47.107 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 23:02:47.110 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 23:04:47.107 NotebookApp] Saving file at /rl_agent/mcts_runner.ipynb
+[I 23:06:47.102 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:10:47.113 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:14:47.112 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:16:47.111 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:20:47.123 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:22:47.163 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:24:47.117 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:26:47.113 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:28:47.132 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:30:47.152 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:32:47.141 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:34:47.123 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:36:47.137 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:38:47.135 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:40:47.130 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:42:47.128 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:44:47.126 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:46:47.133 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:48:47.139 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:50:47.134 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:54:47.132 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:56:47.137 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 23:58:47.128 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 00:06:47.295 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 00:10:47.148 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 00:14:47.154 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 00:18:47.162 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 00:20:47.169 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 00:22:47.164 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 00:24:47.163 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 00:28:34.378 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 00:28:51.123 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 00:30:51.168 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 00:32:51.182 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 00:38:51.305 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 00:40:51.158 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 00:44:51.162 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 00:46:51.175 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 00:48:51.172 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 00:54:51.311 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 00:56:51.186 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 00:58:51.172 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 01:01:31.368 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[W 01:01:37.191 NotebookApp] Replacing stale connection: 54eac03f-13d5-42e3-b011-d22ba6e7dd33:b7815a7a0e534c1182faabe7354bc50a
+[I 01:01:42.195 NotebookApp] Starting buffering for 54eac03f-13d5-42e3-b011-d22ba6e7dd33:b7815a7a0e534c1182faabe7354bc50a
+[I 01:01:42.196 NotebookApp] Adapting to protocol v5.1 for kernel 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 01:01:42.197 NotebookApp] Restoring connection for 54eac03f-13d5-42e3-b011-d22ba6e7dd33:b7815a7a0e534c1182faabe7354bc50a
+[I 01:08:22.363 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 01:15:12.352 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 01:22:02.363 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 01:35:42.376 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 01:42:32.368 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 01:49:22.387 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 01:56:12.378 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 02:03:02.391 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 02:16:42.392 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 02:37:12.419 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 02:44:02.406 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 02:50:52.414 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 03:18:12.416 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 03:38:11.148 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 03:45:33.429 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 03:52:23.425 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[W 04:58:42.199 NotebookApp] WebSocket ping timeout after 119929 ms.
+[I 04:58:47.200 NotebookApp] Starting buffering for 54eac03f-13d5-42e3-b011-d22ba6e7dd33:b7815a7a0e534c1182faabe7354bc50a
+[I 05:00:05.317 NotebookApp] Adapting to protocol v5.1 for kernel 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 05:00:05.318 NotebookApp] Restoring connection for 54eac03f-13d5-42e3-b011-d22ba6e7dd33:b7815a7a0e534c1182faabe7354bc50a
+[I 07:37:53.609 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 08:05:13.601 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 08:32:33.621 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[W 09:27:19.518 NotebookApp] Replacing stale connection: 54eac03f-13d5-42e3-b011-d22ba6e7dd33:b7815a7a0e534c1182faabe7354bc50a
+[I 09:27:24.520 NotebookApp] Starting buffering for 54eac03f-13d5-42e3-b011-d22ba6e7dd33:b7815a7a0e534c1182faabe7354bc50a
+[I 09:27:24.522 NotebookApp] Adapting to protocol v5.1 for kernel 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 09:27:24.523 NotebookApp] Restoring connection for 54eac03f-13d5-42e3-b011-d22ba6e7dd33:b7815a7a0e534c1182faabe7354bc50a
+[W 11:02:24.525 NotebookApp] WebSocket ping timeout after 119925 ms.
+[I 11:02:29.526 NotebookApp] Starting buffering for 54eac03f-13d5-42e3-b011-d22ba6e7dd33:b7815a7a0e534c1182faabe7354bc50a
+[I 11:03:13.557 NotebookApp] Adapting to protocol v5.1 for kernel 54eac03f-13d5-42e3-b011-d22ba6e7dd33
+[I 11:03:13.559 NotebookApp] Restoring connection for 54eac03f-13d5-42e3-b011-d22ba6e7dd33:b7815a7a0e534c1182faabe7354bc50a
+[I 11:37:03.978 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 12:18:03.781 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 12:24:53.745 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 12:31:43.763 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 12:38:33.754 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 12:45:23.771 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb
+[I 13:12:43.847 NotebookApp] Saving file at /rl_agent/mcts_runner_30.ipynb

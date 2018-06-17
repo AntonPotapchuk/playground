@@ -185,3 +185,6 @@ rl_agent/mcts
 rl_agent/dataset
 logs
 rl_agent/MCTS
+rl_agent/go_3res_block_15
+rl_agent/go_3res_block_30
+rl_agent/go_3res_block_50
